@@ -17,7 +17,7 @@
 </details>
 
 <div align="center">
-    <img src="https://github.com/pmh-projects/wzorce_projektowe/blob/main/addfiles/_0123456.jpg" alt="Logo" width="50%"">
+    <img src="https://github.com/pmh-projects/wzorce_projektowe/blob/main/addfiles/design-patterns.png" alt="Logo" width="50%"">
 </div> 
 
 <p align="center">
